@@ -24,6 +24,7 @@ namespace AddressBookSystem
             {
                 contacts[count] = contact;
                 count++;
+                Console.WriteLine("Contact added successfully.");
             }
             else
             {
